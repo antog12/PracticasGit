@@ -1,1 +1,10 @@
 Esto es una prueba para el curso de git.
+
+La palabra 'talento' se ha convertido en una palabra de moda en nuestra sociedad.
+ Todo el mundo quiere tener un talento, pero mucha gente no sabe lo que eso significa.
+ Algunos creen que el talento es una habilidad natural con la que se nace.
+ Otros piensan que el talento es algo que se aprende desde muy pequeño. 
+De cualquier manera, la gente piensa que el talento puede ayudarte a alcanzar tus metas.
+ Sin embargo, el talento solo es útil cuando lo usas.
+ El principal problema con el talento es que puede ser engañoso.
+ Una persona puede tener talento para cantar, pero probablemente fracasará sin el entrenamiento adecuado.
